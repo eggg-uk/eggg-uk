@@ -12,6 +12,9 @@
 ## tiny lil home on the web
 [eggg.uk](https://eggg.uk)
 
+## github
+[you are here](https://github.com/eggg-uk)
+
 ## a lil further info
 ### background
 - work in legal IT, specialised in business systems / SQL / Data / BI.
